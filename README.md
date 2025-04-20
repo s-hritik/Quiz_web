@@ -17,7 +17,7 @@
 
 
 <h2>Live Demo</h2>
-    <p><a href="https://quiz-web-lilac.vercel.app/" target="_blank">🚀 Click here to  Quiz App</a></p>
+    <p><a href="https://quiz-web-lilac.vercel.app/" target="_blank">🚀 Click here to visit Quiz App</a></p>
 
 
 
